@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RealmeAmadeus
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning VUE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me realmeamadeus@gamil.com
+- 🌱 I’m currently learning Spring
 
 <!---
 RealmeAmadeus/RealmeAmadeus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

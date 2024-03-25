@@ -1,4 +1,4 @@
-
+![talentestors.github.profile](https://count.getloli.com/get/@realmeamadeus.github.profile?theme=gelbooru)
 
 - 👋 Hi, I’m @RealmeAmadeus
 - 👀 I’m interested in Java
